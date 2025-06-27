@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Youmin Li 李友民
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Youmin
+last_name: Li
 
 # Status emoji
 status:
@@ -23,15 +21,15 @@ highlight_name: true
 role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
+organizations: 
+  - name: University of Florida
     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:liyoumin@ufl.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,17 +45,17 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AgEcon Policy
+  - Rangeland
+  - GIS and Remote Senssing Application in AgEcon
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD AgEcon 
+    institution: University of Florida
+    date_start: 2024-08-01
+    date_end: 2028-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Three Essays on . Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
