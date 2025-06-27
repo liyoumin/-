@@ -57,7 +57,7 @@ education:
       text: 'Read Thesis'
       url: 'notyet'
   - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
-    institution: UGent, Humboldt Uni zu Belin, Seoul National University, RUC
+    institution: UGent, Humboldt Univ zu Belin, Seoul National University, RUC
     date_start: 2021-09-01
     date_end: 2024-07-31
     summary: |
@@ -91,16 +91,15 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: TA
-    company_name: X
+    company_name: University of Florida
     company_url: ''
     company_logo: ''
     date_start: 2024-08-15
     date_end: 
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses include:
+      - Agricultural Data Analysis (AEB3550)
+      - International Development Policy (AEB4283)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
