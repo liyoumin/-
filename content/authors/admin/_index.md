@@ -151,16 +151,16 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: AAEA Section Sponsored Travel Grant (COSBAE) 
+    url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
+    date: '2025-07-29'
+    awarder: AAEA
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+  - title: Grinter Fellowship
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2024-2025'
     awarder: edX
     icon: edx
     summary: |
@@ -168,10 +168,10 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: SNU Global Subsidy Scholarship; Erasmus Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    date: '2022-2024'
     awarder: datacamp
     icon: datacamp
     summary: |
@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Youmin Li is a PhD candidate of AgEcon at the Economic Impact Analysis Program center (EIAP) - University of Florida. His research interests include mechine learning, GIS and Remote Sensing application in AgEcon. 
+Youmin Li is a PhD candidate of AgEcon at the Economic Impact Analysis Program center (EIAP) - Food and Resource Economics Department - CALS - IFAS - University of Florida. His research interests include mechine learning, GIS and Remote Sensing application in AgEcon. 
