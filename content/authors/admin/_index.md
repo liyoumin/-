@@ -171,7 +171,7 @@ awards:
   - title: SNU Global Subsidy Scholarship; Erasmus Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    "date:" '2022-2024'
+    "date" '2022-2024'
     awarder: datacamp
     icon: datacamp
     summary: |
