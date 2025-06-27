@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Youmin Li 李友民
+title: Youmin Li 
+李友民
 
 
 # Full name (for SEO)
@@ -68,7 +69,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Agricultural $ Forest Economics and Management
+  - area: BSc Agricultural & Forest Economics and Management
     institution: Lanzhou University
     date_start: 2017-09-01
     date_end: 2021-06-17
