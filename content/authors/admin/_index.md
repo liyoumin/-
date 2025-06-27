@@ -71,7 +71,7 @@ education:
   - area: BSc Agricultural $ Forest Economics and Management
     institution: Lanzhou University
     date_start: 2017-09-01
-    date_end: 2021-06-31
+    date_end: 2021-06-17
     summary: |
       GPA: 3.3/4.0
       
