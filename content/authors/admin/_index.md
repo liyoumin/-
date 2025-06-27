@@ -2,6 +2,9 @@
 # Display name
 title: Youmin Li 
 
+# Name pronunciation (optional)
+name_pronunciation: 李友民
+
 # Full name (for SEO)
 first_name: 友民
 last_name: 李
