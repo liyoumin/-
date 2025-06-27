@@ -23,7 +23,7 @@ role: PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations: 
   - name: University of Florida
-    url: https://openai.com/
+    url: https://fred.ifas.ufl.edu/extension/economic-impact-analysis-program/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -31,19 +31,17 @@ profiles:
   - icon: at-symbol
     url: 'mailto:liyoumin@ufl.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/liyoumin
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/liyoumin
+    url: https://www.linkedin.com/in/youmin-li-1467892a1/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://orcid.org/0009-0000-2750-1401
+        
 interests:
   - AgEcon Policy
   - Rangeland
@@ -55,50 +53,50 @@ education:
     date_start: 2024-08-01
     date_end: 2028-05-31
     summary: |
-      Three Essays on . Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Three Essays on . Supervised by [Dr. Qiao, Dr. Weng, Dr. Court](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'notyet'
+  - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
+    institution: UGent, Humboldt Uni zu Belin, Seoul National University, RUC
+    date_start: 2021-09-01
+    date_end: 2024-07-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Agricultural $ Forest Economics and Management
+    institution: Lanzhou University
+    date_start: 2017-09-01
+    date_end: 2021-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.3/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: RA
     company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2019-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: TA
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-08-15
+    date_end: 
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -110,15 +108,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Stata
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: ArcGis
         description: ''
         percent: 40
         icon: circle-stack
@@ -141,11 +139,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Spanish, Korean
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
