@@ -11,7 +11,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-DEPARTMENT OF FOOD AND RESOURCE ECONOMICS UNIVERSITY OF FLORIDA
 
 
 ## Ideation
