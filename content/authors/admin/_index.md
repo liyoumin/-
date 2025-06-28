@@ -131,14 +131,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Piano
         description: ''
         percent: 100
-        icon: swim
-      - name: Photography
+        icon: piano
+      - name: Swimming
         description: ''
         percent: 80
-        icon: camera
+        icon: swimming
 
 languages:
   - name: English
