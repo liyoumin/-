@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Youmin Li is a PhD candidate of AgEcon at the Economic Impact Analysis Program center (EIAP) - Food and Resource Economics Department - CALS - IFAS - University of Florida. His research interests include mechine learning, GIS and Remote Sensing application in AgEcon. 
+Youmin Li (李友民) is a PhD candidate of AgEcon at the Economic Impact Analysis Program center (EIAP) - Food and Resource Economics Department - CALS - IFAS - University of Florida. His research interests include mechine learning, GIS and Remote Sensing application in AgEcon. 
