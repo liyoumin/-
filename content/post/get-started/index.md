@@ -1,6 +1,6 @@
 ---
-title: "AAEA in Denver CO" 
-summary: Assigned the role of moderator in International Development Trade, Markets, and Policy - Lightning Session 1.
+title: AAEA in Denver CO 
+summary: Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1.
 date: 2025-07-27
 
 # Featured image
