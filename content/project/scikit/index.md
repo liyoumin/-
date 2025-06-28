@@ -5,7 +5,7 @@ external_link: [https://github.com/scikit-learn/scikit-learn](https://en.gsm.pku
 tags:
   - PKU
   - Guanghua School of Management
-  - 'Subject No. IRSP-#-NO.111'
+  - "Subject No. IRSP-#-NO.111"
 ---
 
 “The Effect of Aerosols on Crop Growth”, Chinese Academy of Sciences.
