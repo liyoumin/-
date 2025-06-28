@@ -119,11 +119,11 @@ skills:
       - name: GitHub, Overleaf
         description: ''
         percent: 100
-        icon: github
+        icon: brands/github
       - name: ArcGIS
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: brands/arcgis
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -135,11 +135,11 @@ skills:
       - name: Piano
         description: ''
         percent: 100
-        icon: piano
+        icon: <i class="fas fa-piano"></i>  
       - name: Swimming
         description: ''
         percent: 80
-        icon: swimming
+        icon: <i class="fas fa-piano"></i>  
 
 languages:
   - name: English
