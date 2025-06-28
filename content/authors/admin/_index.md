@@ -55,7 +55,7 @@ education:
     date_start: 2024-08-01
     date_end: 2028-05-31
     summary: |
-      Three Essays on . Supervised by [Dr. Qiao, Dr. Weng, Dr. Court](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Three Essays on . Supervised by [Dr. Qiao, Dr. Weng, Dr. Court](https://example.com). Presented papers at AAEA conferences with the contributions being published in journals.
     button:
       text: 'Read Thesis'
       url: 'notyet'
