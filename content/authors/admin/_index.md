@@ -68,7 +68,6 @@ education:
 
       Advisor:
       - Prof. Kim Kwansoo
-      - Prof. Stijn Speelman
       - Prof. Dagmar Mithöfer
   - area: BSc Agricultural & Forest Economics and Management
     institution: Lanzhou University
