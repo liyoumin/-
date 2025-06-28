@@ -25,7 +25,7 @@ Welcome 👋
 ## Overview
 
 1. Keep the session on schedule (timing signs will be provided) but also to foster interesting discussion that will hopefully provide helpful feedback to presenters.  
-2. Please prepare 1-2 questions on each paper, including your own paper, to be asked during the discussion period. To help you prepare questions, instructions on how to access the manuscripts are provided below. **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+2. Please prepare 1-2 questions on each paper, including your own paper, to be asked during the discussion period. To help you prepare questions, instructions on how to access the manuscripts are provided below. 
 3. If you do not see a manuscript, that means one was not provided to AAEA.
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
