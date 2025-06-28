@@ -1,9 +1,8 @@
 ---
-title:  “National Grassland Agriculture Modernization Strategy Research Project”
-,date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title:  “National Grassland Agriculture Modernization Strategy Research Project”,date: 2019-07-26
+external_link: http://www.saas.pku.edu.cn/english/faculty/all_faculty_members_list/eh/365537.htm
 tags:
-  - Hugo
+  - Peking University
   - Wowchemy
   - Markdown
 ---
