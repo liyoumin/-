@@ -1,5 +1,5 @@
 ---
-title: AAEA in Denver, CO 
+title: AAEA in Denver CO 
 summary: Assigned the role of moderator in International Development: Trade, Markets, and Policy - Lightning Session 1.
 date: 2023-10-27
 
