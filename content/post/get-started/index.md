@@ -1,6 +1,6 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: AAEA in Denver, CO 
+summary: Assigned the role of moderator in International Development: Trade, Markets, and Policy - Lightning Session 1.
 date: 2023-10-27
 
 # Featured image
@@ -24,9 +24,9 @@ Welcome 👋
 
 ## Overview
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. Keep the session on schedule (timing signs will be provided) but also to foster interesting discussion that will hopefully provide helpful feedback to presenters.  
+2. Please prepare 1-2 questions on each paper, including your own paper, to be asked during the discussion period. To help you prepare questions, instructions on how to access the manuscripts are provided below. **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. If you do not see a manuscript, that means one was not provided to AAEA.
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
@@ -41,7 +41,7 @@ Welcome 👋
 
 ## Crowd-funded open-source software
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Each presenter will have 9 minutes to present and 2 minutes for discussion. The discussion should occur immediately following each presentation. Timing signs will be provided in each session.
 
 ### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
 
@@ -75,12 +75,13 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://hugo
 
 ## Themes
 
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+**automatic day (light) and night (dark) mode**. The Selected Presentations Committee would like you to contact all the presenters in your session to:
+Confirm the presentation order of the session and notify participants of any changes. Remind presenters to bring a thumb drive with their presentation.
+Inform them the room will be equipped with an LCD projector, screen, and microphone and laptop computer. Encourage all presenters to meet with you in the session room 15 minutes prior to the session start time to resolve any last-minute issues. Presenters will also want to test their thumb drive to make sure all presentations are correctly loading.
 
 [Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
