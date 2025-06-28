@@ -1,6 +1,6 @@
 ---
 title: ✅ 2025 Southern Extension Economics Committee Meeting
-summary: Advancing the Payment for Ecosystem Services through Collaboration: Insights from the Northern Everglades!
+summary: Advancing the Payment for Ecosystem Services through Collaboration Insights from the Northern Everglades!
 date: 2025-06-01
 authors:
   - admin
