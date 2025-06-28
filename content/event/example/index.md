@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: U.S. - China Young Professional Forum
 
-event: Hugo Blox Builder Conference
+event: Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: U.S.
 address:
   street: 450 Serra Mall
   city: Stanford
