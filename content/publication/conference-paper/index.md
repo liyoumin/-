@@ -36,6 +36,9 @@ summary:  Trade policy, Forage, Dairy production, Economic disruption, Tariffs.
 
 tags:
   - Agribusiness, tariff, trade
+  - <a href="https://www.aaea.org" target="_blank">
+<img src="https://www.aaea.org/images/default-source/default-album/aaea_logo.png" alt="AAEA" style="height:24px;">
+</a>
 
 # Display this page in the Featured widget?
 featured: true
@@ -43,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://www.aaea.org
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
