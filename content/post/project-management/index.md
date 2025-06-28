@@ -1,25 +1,31 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: ✅ 2025 Southern Extension Economics Committee Meeting
+summary: Advancing the Payment for Ecosystem Services through Collaboration: Insights from the Northern Everglades!
+date: 2025-06-01
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - SEEC
+  - Ecosystem services
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+DEPARTMENT OF FOOD AND RESOURCE ECONOMICS UNIVERSITY OF FLORIDA
+
 
 ## Ideation
 
-Hugo Blox supports a Markdown extension for mindmaps.
+Info related link
+[https://www.overleaf.com/project/6793074bf21053b9449ecf30]
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+EDIS: 
+“Payments for Ecosystem Services in Florida’s Landscape: Concepts and Principles”
+“Payments for Ecosystem Services in Florida’s Landscape: An Introduction to the Northern Everglades Payment for Environmental Services Program”
+
+AAEA Paper:
+“Payment for Ecosystem Services in the Era of Climate-Smart Agriculture:Insights from The Northern Everglades – Payment for Environmental Services”
 
 <div class="highlight">
 <pre class="chroma">
