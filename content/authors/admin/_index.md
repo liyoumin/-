@@ -33,14 +33,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:liyoumin@ufl.edu'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/google-scholar
+    url: https://www.googlescholar.com/
   - icon: brands/github
     url: https://github.com/liyoumin
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/youmin-li-1467892a1/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Youmin-Li
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2750-1401
         
