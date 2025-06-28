@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:liyoumin@ufl.edu'
     label: E-mail Me
   - icon: brands/google-scholar
-    url: https://www.googlescholar.com/
+    url: https://scholar.google.com/
   - icon: brands/github
     url: https://github.com/liyoumin
   - icon: brands/linkedin
