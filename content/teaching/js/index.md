@@ -1,7 +1,7 @@
 ---
 title:  Agricultural Data Analysis
 summary: Easily learn how to use excel to data process!
-date: 2024-8-16
+date: 2024-08-16
 type: docs
 math: false
 tags:
