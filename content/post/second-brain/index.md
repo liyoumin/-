@@ -1,12 +1,13 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 🧠 AAEA in Denver Co
+summary: Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program
+
+date: 2025-07-29
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - AAEA
+  - Extension
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
