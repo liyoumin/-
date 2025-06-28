@@ -1,6 +1,6 @@
 ---
 title: 🧠 AAEA in Denver Co
-summary: Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program
+summary: Payment for Ecosystem Services in the Era of Sustainable Agriculture Insights from The Northern Everglades Payment for Environmental Services Program
 
 date: 2025-07-29
 authors:
