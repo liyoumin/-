@@ -76,12 +76,13 @@ education:
     date_end: 2021-06-17
     summary: |
       GPA: 3.3/4.0
-      
+
+      Advisor:
+      - Dr. Xiao Jinyu
+
       Courses included:
       - Summer School of "Applied Micrometric Economics" for graduate students in Shanghai
       - Summer School of Econometric for graduate students in Jiangsu Province Government
-      Advisor:
-      - Dr. Xiao Jinyu
 
 work:
   - position: RA
