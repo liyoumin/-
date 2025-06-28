@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title:  Agricultural Data Analysis
+summary: Easily learn how to use excel to data process!
+date: 2024-8-16
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Excel, Sata
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
