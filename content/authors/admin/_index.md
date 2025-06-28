@@ -132,7 +132,7 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: swim
       - name: Photography
         description: ''
         percent: 80
