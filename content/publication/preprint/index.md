@@ -1,7 +1,8 @@
 ---
-title: "Payments for Ecosystem Services in Florida’s Landscape: Concepts and Principles."
+title: "Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program"
 authors:
 - admin
+- Weizhe Weng, Jared Gars, Micheal Olexa, Suzanne Thornsbury
 date: "2025-04-07T00:00:00Z"
 doi: ""
 
@@ -17,10 +18,11 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The transition to sustainable agriculture has underscored the critical role of Payment for Ecosystem Services (PES) programs in addressing environmental challenges while supporting agricultural productivity. This paper examines the Northern Everglades Payment for Environmental Services Program (NE-PES) as a case study to derive insights for designing cost-effective and collaborative PES programs. The NE-PES program implemented a hybrid payment scheme that integrates action-based and results-based contracts, enhancing economic efficiency and accountability. Advanced monitoring technologies, such as hydrological modeling and remote sensing, support accurate verification of service delivery, fostering trust among diverse stakeholders. Despite its achievements, challenges such as scalability, integration of diverse ecosystem services, and stakeholder heterogeneity highlight the need for innovative approaches in program design and implementation. The findings from this paper highlight cost efficiency of PES contract design. The paper also offered strategies to address scalability and integration for policymakers and practitioners as PES programs expand under climate-smart agricultural policies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Payment to Ecosystem Services; Contract Design; Sustainable Agriculture, Monitoring, Measuring, Reporting, and Verification.
+
 
 tags:
 - Ecosystem services
