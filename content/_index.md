@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research scientist in the EIAP team at CALS-IFAS-University Florida. I interested in machine learning, deep learning, GIS and Remote Sensing.
+        I'm a research scientist in the EIAP team at FRE - CALS - IFAS - University Florida. I interested in machine learning, deep learning, GIS and Remote Sensing.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of agricultural science and technology in the AgEconomy.
         
