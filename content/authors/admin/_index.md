@@ -60,16 +60,16 @@ education:
       text: 'Read Thesis'
       url: 'notyet'
   - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
-    institution: UGent, Humboldt Univ zu Belin, Seoul National University, RUC
+    institution: UGent (Belgium), Humboldt Univ zu Belin (Germany), Seoul National University (SSouth Korea), RUC (China)
     date_start: 2021-09-01
     date_end: 2024-07-31
     summary: |
       GPA: 4.0/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Advisor:
+      - Prof. Kim Kwansoo
+      - Prof. Stijn Speelman
+      - Prof. Dagmar Mithöfer
   - area: BSc Agricultural & Forest Economics and Management
     institution: Lanzhou University
     date_start: 2017-09-01
@@ -78,21 +78,23 @@ education:
       GPA: 3.3/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Summer School of "Applied Micrometric Economics" for graduate students in Shanghai
+      - Summer School of Econometric for graduate students in Jiangsu Province Government
+      Advisor:
+      - Dr. Xiao Jinyu
+
 work:
   - position: RA
-    company_name: GenCoin
+    company_name: University of Florida
     company_url: ''
     company_logo: ''
-    date_start: 2019-07-01
+    date_start: 2024-08-15
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - EIAP
+      - EDIS
+      - Livestock and Rangeland
   - position: TA
     company_name: University of Florida
     company_url: ''
