@@ -3,7 +3,7 @@ title: 'Case Study: Small farms and Environment in Tuscany, Italy'
 date: 2023-06-26
 external_link: https://www.moving-h2020.eu/about-moving/
 tags:
-  - Sillco village,Tuscany, Italy
+  - Sillico village,Tuscany, Italy
   - Garfanala
   - IMRD Erasmus, EU
 ---
