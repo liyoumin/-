@@ -1,7 +1,7 @@
 ---
 title: AAEA in Denver CO 
-summary: Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1.
-date: 2025-07-27
+summary: Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1
+date: 2025-06-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -28,16 +28,14 @@ Welcome 👋
 2. Please prepare 1-2 questions on each paper, including your own paper, to be asked during the discussion period. To help you prepare questions, instructions on how to access the manuscripts are provided below. 
 3. If you do not see a manuscript, that means one was not provided to AAEA.
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
 ### Get Started
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 👉 [**AAEA**](https://AAEA.com/)
+- 📚 [**Prepare for career**](https://AAEA.com/)
 - 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
 - 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- ⬆️ **Updating** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
 
 ## Crowd-funded open-source software
 
