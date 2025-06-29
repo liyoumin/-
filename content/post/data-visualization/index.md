@@ -1,13 +1,13 @@
 ---
 title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+summary: FRE policy conference, Use popular tools such as Plotly, Mermaid, and data frames.
+date: 2025-5-08
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Agricultural Policy
+  - Extension
+  - Citrus, FL
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
