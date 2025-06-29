@@ -1,7 +1,7 @@
 ---
 title:  National Grassland Agriculture Modernization Strategy Research Project
 date: 2019-07-26
-external_link: http://www.saas.pku.edu.cn/english/
+external_link:
 tags:
   - Peking University
   - CCAP
