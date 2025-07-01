@@ -24,8 +24,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations: 
-  - name: University of Florida
-    url: https://fred.ifas.ufl.edu/extension/economic-impact-analysis-program/
+  - name: Purdue University
+    url: https://www.gtap.agecon.purdue.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,7 +55,7 @@ education:
     date_start: 2024-08-01
     date_end: 2028-05-31
     summary: |
-      Three Essays on . Supervised by [Dr. Caron Reeling](https://example.com). Presented papers at AAEA conferences with the contributions being published in journals.
+      Three Essays on . Supervised by [Dr. Carson Reeling](https://example.com). Presented papers at AAEA conferences with the contributions being published in journals.
     button:
       text: 'Read Thesis'
       url: 'notyet'
@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Youmin Li (李友民) is a PhD candidate of AgEcon at the GATP - Agricultural Economics Department. His research interests include AgEcon policy, mechine learning, GIS and Remote Sensing application in AgEcon. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
+Youmin Li (李友民) is a PhD candidate of AgEcon at the GTAP - Agricultural Economics Department. His research interests include AgEcon policy, mechine learning, GIS and Remote Sensing application in AgEcon. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
