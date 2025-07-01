@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:liyoumin@ufl.edu'
+    url: 'mailto:li5305@purdue.edu'
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/
@@ -51,11 +51,11 @@ interests:
 
 education:
   - area: PhD AgEcon 
-    institution: University of Florida
+    institution: Purdue University
     date_start: 2024-08-01
     date_end: 2028-05-31
     summary: |
-      Three Essays on . Supervised by [Dr. Qiao, Dr. Weng, Dr. Court](https://example.com). Presented papers at AAEA conferences with the contributions being published in journals.
+      Three Essays on . Supervised by [Dr. Caron Reeling](https://example.com). Presented papers at AAEA conferences with the contributions being published in journals.
     button:
       text: 'Read Thesis'
       url: 'notyet'
@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Youmin Li (李友民) is a PhD candidate of AgEcon at the Economic Impact Analysis Program center (EIAP) - Food and Resource Economics Department - CALS - IFAS - University of Florida. His research interests include AgEcon policy, mechine learning, GIS and Remote Sensing application in AgEcon. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
+Youmin Li (李友民) is a PhD candidate of AgEcon at the GATP - Agricultural Economics Department. His research interests include AgEcon policy, mechine learning, GIS and Remote Sensing application in AgEcon. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
