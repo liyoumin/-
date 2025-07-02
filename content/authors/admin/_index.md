@@ -60,7 +60,7 @@ education:
       text: 'Read Thesis'
       url: 'notyet'
   - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
-    institution: UGent (Belgium), Humboldt Univ zu Belin (Germany), Seoul National University (SSouth Korea), RUC (China)
+    institution: UGent (Belgium), Humboldt Univ zu Belin (Germany), Seoul National University (South Korea), RUC (China)
     date_start: 2021-09-01
     date_end: 2024-07-31
     summary: |
