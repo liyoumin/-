@@ -57,7 +57,7 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '[**Unsplash**](https://whova.com/portal/live_poll_result/XMj1OHdPcomE@a9G3DxeIg4JNT9Kwi9x-I2cqHd4zR0=/266262/)'
   focal_point: ''
   preview_only: false
 
@@ -85,5 +85,5 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://whova.com/portal/live_poll_result/XMj1OHdPcomE@a9G3DxeIg4JNT9Kwi9x-I2cqHd4zR0=/266262/).
 
