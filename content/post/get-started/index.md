@@ -1,12 +1,12 @@
 ---
-title: AAEA in Denver CO 
+title: AAEA in Denver, CO 
 summary: Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1
 date: 2025-06-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 
 authors:
   - admin
@@ -34,7 +34,7 @@ Welcome 👋
 - 👉 [**AAEA**](https://AAEA.com/)
 - 📚 [**Prepare for career**](https://AAEA.com/)
 - 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- 💡 [Request a **feature** or survey a **bug** for Session_](https://whova.com/portal/live_poll_result/XMj1OHdPcomE@a9G3DxeIg4JNT9Kwi9x-I2cqHd4zR0=/266265/)
 - ⬆️ **Updating** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
 
 ## Crowd-funded open-source software
