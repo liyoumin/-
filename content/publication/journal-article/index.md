@@ -13,7 +13,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2025-06-01T00:00:00Z"
-doi: ""
+doi: "10.22004/ag.econ.361165"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-01T00:00:00Z"
@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://arxiv.org/pdf/1512.04133v1'
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
