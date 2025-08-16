@@ -30,9 +30,9 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: 'https://doi.org/10.22004/ag.econ.361165'
-url_pdf: 'https://doi.org/10.22004/ag.econ.361165'
+- name: DOI
+  url: https://doi.org/10.22004/ag.econ.361165
+url_pdf: 
 url_code: 
 url_dataset: '#'
 url_poster: '#'
