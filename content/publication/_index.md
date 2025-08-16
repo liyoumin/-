@@ -1,5 +1,5 @@
 ---
-title: Payment for Ecosystem Services in the Era of Sustainable Agriculture Insights from The Northern Everglades Payment for Environmental Services Program
+title: Title
 cms_exclude: true
 
 # View.
