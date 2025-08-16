@@ -1,5 +1,5 @@
 ---
-title: 'Tariffs Impacts on China Dairy Production System and Producer Subsidy Effects- Case of Twin Tariffs.pdf'
+title: 'Tariffs Impacts on China Dairy Production System and Producer Subsidy Effects- Case of Twin Tariffs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
