@@ -57,7 +57,7 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '[**Unsplash**]([https://doi.org/10.22004/ag.econ.361012])'
+  caption: '[**Unsplash**](https://doi.org/10.22004/ag.econ.361012)'
   focal_point: ''
   preview_only: false
 
