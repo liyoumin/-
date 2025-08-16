@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-07-01T00:00:00Z'
+date: '2025-07-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: https://www.aaea.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.22004/ag.econ.361012'
 url_code: 'https://www.aaea.org'
 url_dataset: 'https://www.aaea.org'
 url_poster: ''
@@ -57,7 +57,7 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '[**Unsplash**](https://whova.com/portal/live_poll_result/XMj1OHdPcomE@a9G3DxeIg4JNT9Kwi9x-I2cqHd4zR0=/266262/)'
+  caption: '[**Unsplash**]([https://doi.org/10.22004/ag.econ.361012])'
   focal_point: ''
   preview_only: false
 
