@@ -55,7 +55,7 @@ education:
     date_start: 2024-08-01
     date_end: 2028-05-31
     summary: |
-      Three Essays on . Supervised by [Dr. Qiao, Dr. Weng, Dr. Court](https://example.com). Presented papers at AAEA conferences with the contributions being published in journals.
+      Three Essays on . Supervised by [Dr. Qiao, Dr. Court, Dr. Weng](https://example.com). Presented papers at AAEA conferences with the contributions being published in journals.
     button:
       text: 'Read Thesis'
       url: 'notyet'
@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Youmin Li (李友民) is a PhD candidate of AgEcon at the Economic Impact Analysis Program center (EIAP) - Food and Resource Economics Department - CALS - IFAS - University of Florida. His research interests include AgEcon policy, mechine learning, GIS and Remote Sensing application in AgEcon. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
+Youmin Li (李友民) is a PhD student of AgEcon at the Economic Impact Analysis Program center (EIAP) - Food and Resource Economics Department - CALS - IFAS - University of Florida. His research interests include AgEcon policy, mechine learning, GIS and Remote Sensing application in AgEcon. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
